@@ -1,5 +1,3 @@
-Here’s an enhanced version of your text, polished for clarity and engagement:  
-
 **Excited to Share My Latest Python Project: A Secure Password Generator!**  
 Developed as part of the #CodSoft internship under the expert guidance of **Mr. Divakar Kushwaha Sir** at Ducat Noida.  
 
